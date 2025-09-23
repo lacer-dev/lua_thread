@@ -1,5 +1,5 @@
 # lua_thread
-An C++ object-oriented and type-safe interface to Lua's C API, modeled after std::thread.
+An C++ object-oriented and type-safe interface to Lua's C API, modeled after std::thread. Basically, the (unofficial) Lua C++ API.
 ## Building and Linking
 Clone lua_thread into your C++ project as a submodule:
 ```
@@ -23,3 +23,4 @@ Then build your CMake project as normal.
 See [build-cmake.md](docs/build-cmake.md) for lua_thread-specific CMake options.
 ## License
 lua_thread is distributed under the terms of the MIT License.
+
